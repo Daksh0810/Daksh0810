@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Daksh!
-🚀 Data Scientist | AI/ML Enthusiast | Consultant  
+🚀 Data Scientist | AI/ML Enthusiast
 📍 Dwarka, New Delhi  
 📧 Email: daksh0810@gmail.com  
 🔗 [LinkedIn](#) | 👨‍💻 [GitHub](#)  
