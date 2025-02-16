@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Daksh!  
+# 👋 Hello, I'm Daksh!
 🚀 Data Scientist | AI/ML Enthusiast | Consultant  
 📍 Dwarka, New Delhi  
 📧 Email: daksh0810@gmail.com  
