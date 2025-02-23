@@ -2,7 +2,7 @@
 🚀 Data Scientist | AI/ML Enthusiast
 📍 Dwarka, New Delhi  
 📧 Email: daksh0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/daksh-gulati-33596621a/) | 👨‍💻 [GitHub](https://github.com/Daksh0810/Daksh0810)  
+🔗 [LinkedIn](https://www.linkedin.com/in/daksh-gulati-33596621a/) | 👨‍💻 [GitHub](https://github.com/Daksh0810)  
 
 ## 🌐 About Me  
 With a strong foundation in **Data Science, AI, and Consulting**, I specialize in transforming raw data into actionable insights. I have experience working with **machine learning, deep learning, NLP, and data visualization** to drive impactful decision-making. My expertise spans across industries, helping organizations leverage AI for smarter solutions.  
